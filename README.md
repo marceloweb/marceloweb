@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**marceloweb/marceloweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**marceloweb** is a public Github profile of ✨ _Marcelo Oliveira_, ✨ Systems Analyst.
 
 Here are some ideas to get you started:
 
