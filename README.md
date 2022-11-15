@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,aws,php,kubernetes,ansible,git" />
 </div>
+
+## Statistics
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloweb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
