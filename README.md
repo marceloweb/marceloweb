@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,aws,php,kubernetes,ansible,git" />
+</div>
