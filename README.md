@@ -8,7 +8,7 @@
 ## Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,python,java,aws,php,kubernetes,ansible,git" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,python,java,aws,azure,php,kubernetes,ansible,git" />
 </div>
 
 ## Statistics
