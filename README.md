@@ -11,7 +11,4 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,python,java,go,php,aws,azure,gcp,ansible,git" />
 </div>
 
-## Statistics
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=marceloweb&show_icons=true)
 
