@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 **marceloweb** is a public Github profile of ✨ _Marcelo Oliveira_, ✨ Systems Analyst.
 
 - 🔭 I’m currently focused on containers, Cloud Native, and Kubernetes.
